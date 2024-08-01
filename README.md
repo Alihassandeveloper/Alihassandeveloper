@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alihassandeveloper
 - 👀 I’m interested in flutter app development
-- 🌱 I’m currently learning fltter UI
+- 🌱 I’m learning fltter in Advance level 
 - 💞️ I’m looking to collaborate on flutter community
 - 📫 How to reach me youtube
 
